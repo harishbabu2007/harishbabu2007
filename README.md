@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harishbabu2007
 - 👀 I’m interested in web dev, app dev, game dev
 - 🌱 I’m currently learning game dev
-- 💞️ I’m looking to collaborate on games and apss
+- 💞️ I’m looking to collaborate on games, apps and websites
 - 📫 How to reach me gmail, github, youtube
 
 <!---
