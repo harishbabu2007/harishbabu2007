@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harishbabu2007
+- 👋 Hi, I’m harish babu
 - 👀 I’m interested in web dev, app dev, game dev
 - 🌱 I’m currently learning game dev, competitive programming
 - 💞️ I’m looking to collaborate on games, apps and websites
