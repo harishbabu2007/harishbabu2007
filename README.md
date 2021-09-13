@@ -1,5 +1,5 @@
 - 👋 Hi, I’m harish babu
-- 👀 I’m interested in web dev, app dev, game dev, anything.....
+- 👀 I’m interested in coding and exploring new technologies
 - 🌱 I’m currently learning react native (mobile app dev)
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites
 - 📫 How to reach me harishbabubalaji@gmail.com(gmail), github, youtube "Code With harish"
