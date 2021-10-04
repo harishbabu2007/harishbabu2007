@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and exploring new technologies
 - 🌱 I’m currently learning react native (mobile app dev)
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites
-- 📫 How to reach me harishbabubalaji@gmail.com(gmail), github, youtube "Code With harish"
+- 📫 How to reach me github, youtube "Code With harish"
 - 👨‍🎓 i am a student
 - 🕴 i am 14 years old
 
