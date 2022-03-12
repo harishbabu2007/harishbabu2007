@@ -1,6 +1,6 @@
 - 👋 Hi, I’m harish babu
 - 👀 I’m interested in coding and exploring new technologies
-- 🌱 I’m currently learning react native (mobile app dev)
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites
 - 📫 How to reach me github, youtube "Code With harish"
 - 👨‍🎓 i am a student
