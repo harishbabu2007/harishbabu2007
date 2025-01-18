@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites
 - 📫 How to reach me github, youtube "Code With harish"
 - 👨‍🎓 i am a student
-- 🕴 i am 14 years old
+- 🕴 i am 17 years old
 - 🧾 Portfolio - https://portfolio-harish.web.app/
 
 <!---
