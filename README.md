@@ -1,5 +1,5 @@
-- 👋 Hi, I’m harish babu
-- 👀 I’m interested in coding and exploring new technologies and exploring new frontiers
+- 👋 Hi, I’m Harish Babu
+- 👀 I’m interested in software development, exploring new technologies and frontiers
 - 🌱 I’m currently working on drug discovery and deep learning
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites, startups, hackatons, basically anything....
 - 📫 I'm into
