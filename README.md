@@ -10,13 +10,13 @@
   - system design
   - game development and computer graphics
   - hardware and electronics
-  - low level dev (operating systems and device drivers)
+  - low level dev (operating systems and device drivers and basic embedded systems)
   - bio informatics
   - Networking, digital forensics, penetration testing, reverse engineering
-  - Data analytics
+  - Data analytics and BIG data
 - 👨‍🎓 i am a student at IIT Jodhpur
 - 🕴 i am 18 years old
-- 🧾 Portfolio (bit outdated thou)- https://portfolio-harish.web.app/ 
+- 🧾 Portfolio (bit outdated though)- https://portfolio-harish.web.app/ 
 
 <!---
 harishbabu2007/harishbabu2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
