@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on drug discovery and deep learning
 - 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites, startups, hackatons, basically anything....
 - 📫 I'm into
-  - Machine learning and neural networks
+  - Machine learning and neural networks, and deeplearning
   - web, mobile and desktop app development
   - cloud services (mostly GCP)
   - full stack development (both frontend and backend)
@@ -12,7 +12,7 @@
   - hardware and electronics
   - low level dev (operating systems and device drivers and basic embedded systems)
   - bio informatics
-  - Networking, digital forensics, penetration testing, reverse engineering
+  - Networking, digital forensics, penetration testing, reverse engineering (all to some basic level)
   - Data analytics and BIG data
 - 👨‍🎓 i am a student at IIT Jodhpur
 - 🕴 i am 18 years old
