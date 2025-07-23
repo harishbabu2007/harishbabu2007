@@ -12,7 +12,7 @@
   - hardware and electronics
   - low level dev (operating systems and device drivers and basic embedded systems)
   - bio informatics
-  - Networking, digital forensics, penetration testing, reverse engineering (all to some basic level)
+  - Networking, penetration testing, reverse engineering (all to some very basic level)
   - Data analytics and BIG data
 - 👨‍🎓 i am a student at IIT Jodhpur
 - 🕴 i am 18 years old
