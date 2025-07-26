@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on drug discovery and deep learning
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
-  - Machine learning and neural networks, and deeplearning
+  - Machine learning, neural networks and deeplearning
   - bioinfomatics
   - Data analytics and BIG data
   - web, mobile and desktop app development
