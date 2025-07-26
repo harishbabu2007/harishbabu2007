@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Harish Babu
 - 👀 I’m interested in software development, exploring new technologies and frontiers
 - 🌱 I’m currently working on drug discovery and deep learning
-- 💞️ I’m looking to collaborate on games, apps, coding projects(any technology) and websites, startups, hackatons, basically anything....
+- 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
   - Machine learning and neural networks, and deeplearning
+  - bioinfomatics
+  - Data analytics and BIG data
   - web, mobile and desktop app development
   - cloud services (mostly GCP)
   - full stack development (both frontend and backend)
@@ -11,12 +13,28 @@
   - game development and computer graphics
   - hardware and electronics
   - low level dev (operating systems and device drivers and basic embedded systems)
-  - bio informatics
-  - Networking, penetration testing, reverse engineering (all to some very basic level)
-  - Data analytics and BIG data
-- 👨‍🎓 i am a student at IIT Jodhpur
+- ⚙️ Programming Languages i am comfortable to work with
+    - Python
+    - C/C++
+    - C#
+    - Assembly and linkers (to some basic level)
+    - Java
+    - HTML, CSS, Javascript
+    - SQL
+- 🧾 Frameworks i am good with
+  - Pytorch, tensorflow, pandas, numpy, matplotlib, seaborn
+  - deepchem, rdkit and biopython for bioinformatics
+  - Django and Flask with SQL/NoSQL databases
+  - NEXT.js, React, React Native
+  - MERN stack
+  - Unity Game Engine
+  - SFML c++ and ImGui
+  - Pygame and Kivy for python games and apps
+  - Arduino and other embedded systems (like esp32, Raspberry PI)
+- 👨‍🎓 i am currently pursuing B.Tech at IIT Jodhpur
 - 🕴 i am 18 years old
-- 🧾 Portfolio (bit outdated though)- https://portfolio-harish.web.app/ 
+- 🧾 Portfolio (bit outdated though)- https://portfolio-harish.web.app/
+- 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-188453269)
 
 <!---
 harishbabu2007/harishbabu2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
