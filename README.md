@@ -12,7 +12,7 @@
   - system design
   - game development and computer graphics
   - hardware and electronics
-  - low level dev (operating systems and device drivers and basic embedded systems)
+  - low level dev (operating systems, device drivers and basic embedded systems)
 - ⚙️ Programming Languages i am comfortable to work with
     - Python
     - C/C++
