@@ -20,7 +20,7 @@
     - Java
     - HTML, CSS, Javascript
     - SQL
-- 🧾 Frameworks i am good with
+- 🧾 Frameworks and libraries I am good with
   - Pytorch, tensorflow, pandas, numpy, matplotlib, seaborn
   - deepchem, rdkit and biopython for bioinformatics
   - Django and Flask with SQL/NoSQL databases
