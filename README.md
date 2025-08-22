@@ -28,6 +28,8 @@
   - MERN stack
   - Unity Game Engine
   - SFML c++ and ImGui
+  - Redis
+  - Docker
   - Pygame and Kivy for python games and apps
   - Arduino and other embedded systems (like esp32, Raspberry PI)
 - 👨‍🎓 i am currently pursuing B.Tech at IIT Jodhpur
