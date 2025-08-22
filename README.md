@@ -35,7 +35,7 @@
 - 👨‍🎓 i am currently pursuing B.Tech at IIT Jodhpur
 - 🕴 i am 18 years old
 - 🧾 Portfolio (bit outdated though)- https://portfolio-harish.web.app/
-- 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-188453269)
+- 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-balaji-188453269/)
 
 <!---
 harishbabu2007/harishbabu2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
