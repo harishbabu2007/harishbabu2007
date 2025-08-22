@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harish Babu
+- 👋 Hi, I’m Harish Babu Balaji
 - 👀 I’m interested in software development, exploring new technologies and frontiers
 - 🌱 I’m currently working on drug discovery and deep learning
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
