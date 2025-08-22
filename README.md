@@ -21,7 +21,7 @@
     - HTML, CSS, Javascript
     - SQL
 - 🧾 Frameworks and libraries I am good with
-  - Pytorch, tensorflow, pandas, numpy, matplotlib, seaborn
+  - Pytorch, tensorflow, scikit-learn, pandas, numpy, matplotlib, seaborn
   - deepchem, rdkit and biopython for bioinformatics
   - Django and Flask with SQL/NoSQL databases
   - NEXT.js, React, React Native
