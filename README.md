@@ -3,13 +3,12 @@
 - 🌱 I’m currently working on drug discovery and deep learning
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
-  - Machine learning, neural networks and deeplearning
+  - Machine learning, neural networks and deeplearning, Large language models
   - bioinfomatics
-  - Data analytics and BIG data
   - web, mobile and desktop app development
   - cloud services (mostly GCP)
   - full stack development (both frontend and backend)
-  - system design
+  - system design (for smaller systems)
   - game development and computer graphics
   - hardware and electronics
   - low level dev (operating systems, device drivers and basic embedded systems)
