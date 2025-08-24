@@ -6,7 +6,7 @@
   - Machine learning, neural networks and deeplearning, Large language models
   - bioinfomatics
   - web, mobile and desktop app development
-  - cloud services (mostly GCP)
+  - cloud services (GCP and Azure)
   - full stack development (both frontend and backend)
   - system design (for smaller systems)
   - game development and computer graphics
