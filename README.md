@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harish Babu Balaji
 - 👀 I’m interested in software development, exploring new technologies and frontiers
-- 🌱 I’m currently working on drug discovery and deep learning
+- 🌱 I’m currently working on drug discovery and geometric deep learning
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
   - Machine learning, neural networks and deeplearning, Large language models
