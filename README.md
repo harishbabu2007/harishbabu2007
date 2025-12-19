@@ -8,7 +8,7 @@
   - web, mobile and desktop app development
   - cloud services (GCP and Azure)
   - full stack development (both frontend and backend)
-  - system design (for smaller systems)
+  - system design and architecture
   - game development and computer graphics
   - hardware and electronics
   - low level dev (operating systems, device drivers and basic embedded systems)
