@@ -1,17 +1,17 @@
 - 👋 Hi, I’m Harish Babu Balaji
 - 👀 I’m interested in software development, exploring new technologies and frontiers
-- 🌱 I’m currently working on drug discovery and geometric deep learning
+- 🌱 I’m currently working on style transfer and image generation.
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
-  - Machine learning, neural networks and deeplearning, Large language models
+  - Machine learning, neural networks and deeplearning, Large language models, MLOps
   - bioinfomatics
   - web, mobile and desktop app development
-  - cloud services (GCP and Azure)
+  - cloud services (GCP)
   - full stack development (both frontend and backend)
   - system design and architecture
   - game development and computer graphics
   - hardware and electronics
-  - low level dev (operating systems, device drivers and basic embedded systems)
+  - low level dev (operating systems and basic embedded systems)
 - ⚙️ Programming Languages i am comfortable to work with
     - Python
     - C/C++
@@ -21,7 +21,7 @@
     - HTML, CSS, Javascript
     - SQL
 - 🧾 Frameworks and libraries I am good with
-  - Pytorch, tensorflow, scikit-learn, pandas, numpy, matplotlib, seaborn
+  - Pytorch, tensorflow, scikit-learn, pandas, numpy, matplotlib, seaborn, huggingface, transformers, wandb, optuna
   - deepchem, rdkit and biopython for bioinformatics
   - Django and Flask with SQL/NoSQL databases
   - NEXT.js, React, React Native
@@ -32,9 +32,8 @@
   - Docker
   - Pygame and Kivy for python games and apps
   - Arduino and other embedded systems (like esp32, Raspberry PI)
-- 👨‍🎓 i am currently pursuing B.Tech at IIT Jodhpur
+- 👨‍🎓 i am currently a First year B.Tech student at IIT Jodhpur
 - 🕴 i am 18 years old
-- 🧾 Portfolio (bit outdated though)- https://portfolio-harish.web.app/
 - 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-balaji-188453269/)
 
 <!---
