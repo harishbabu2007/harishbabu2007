@@ -34,7 +34,7 @@
   - Arduino and other embedded systems (like esp32, Raspberry PI)
 - 👨‍🎓 i am currently a First year B.Tech student at IIT Jodhpur
 - 🕴 i am 18 years old
-- 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-balaji-188453269/)
+- 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-balaji/)
 
 <!---
 harishbabu2007/harishbabu2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
