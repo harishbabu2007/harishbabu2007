@@ -1,17 +1,17 @@
 - 👋 Hi, I’m Harish Babu Balaji
 - 👀 I’m interested in software development, exploring new technologies and frontiers
-- 🌱 I’m currently working on style transfer and image generation.
+- 🌱 I’m currently working on learning rust and how to make good cli applications
 - 💞️ I’m looking to collaborate on apps, websites, games, software projects(any technology), startups, hackatons, basically anything....
 - 📫 I'm into
   - Machine learning, neural networks and deeplearning, Large language models, MLOps
-  - bioinfomatics
+  - bioinfomatics (rdkit, deepchem)
   - web, mobile and desktop app development
   - cloud services (GCP)
-  - full stack development (both frontend and backend)
-  - system design and architecture
+  - full stack development and microservices
+  - system design and high level design of application
   - game development and computer graphics
   - hardware and electronics
-  - low level dev (operating systems and basic embedded systems)
+  - low level dev (geeking with operating systems and basic embedded systems)
 - ⚙️ Programming Languages i am comfortable to work with
     - Python
     - C/C++
@@ -19,20 +19,21 @@
     - Assembly and linkers (to some basic level)
     - Java
     - HTML, CSS, Javascript
+    - Typescript
     - SQL
-- 🧾 Frameworks and libraries I am good with
+- 🧾 Frameworks and libraries I have worked with
   - Pytorch, tensorflow, scikit-learn, pandas, numpy, matplotlib, seaborn, huggingface, transformers, wandb, optuna
-  - deepchem, rdkit and biopython for bioinformatics
-  - Django and Flask with SQL/NoSQL databases
+  - deepchem, rdkit for biological data analysis and chemiinfomatics
+  - Django, Flask, Fast-Api with SQL/NoSQL databases
   - NEXT.js, React, React Native
   - MERN stack
   - Unity Game Engine
   - SFML c++ and ImGui
-  - Redis
+  - Redis, Celery, Vercel cron jobs
   - Docker
   - Pygame and Kivy for python games and apps
-  - Arduino and other embedded systems (like esp32, Raspberry PI)
-- 👨‍🎓 i am currently a First year B.Tech student at IIT Jodhpur
+  - Arduino and other embedded systems (like esp32, Raspberry PI) (nothing serious but mostly for fun).
+- 👨‍🎓 i am currently a Second year B.Tech student at IIT Jodhpur
 - 🕴 i am 18 years old
 - 🌟 My LinkedIn - [My Profile](https://www.linkedin.com/in/harish-babu-balaji/)
 
